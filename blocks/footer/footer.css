@@ -1,0 +1,17 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    gap: 274px;
+}
+
+@media (width <= 768px) {
+    .footer {
+        gap: 417px;
+    }
+}
+@media (width <= 375px) {
+    .footer {
+        gap: 250px;
+    }
+}

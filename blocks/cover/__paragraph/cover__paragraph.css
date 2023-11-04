@@ -1,0 +1,24 @@
+.cover__paragraph {
+    color: #000028;
+    font-family: IBM Plex Mono, sans-serif;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130%; /* 23.4px */
+    background-color: #FF0070;
+    align-self: end;
+    max-width: 491px;
+    min-height: 71px;
+    margin-bottom: 89px;
+}
+
+@media (width <= 768px) {
+    .cover__paragraph {
+        margin-bottom: 138px;
+    }
+}
+@media (width <= 375px) {
+    .cover__paragraph {
+        margin-bottom: 31px;
+    }
+}

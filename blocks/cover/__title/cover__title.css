@@ -1,0 +1,26 @@
+.cover__title {
+    color: #DB00FF;
+    text-shadow: 4px 4px 0px #FF0070;
+    font-family: IBM Plex Mono, sans-serif;
+    font-size: 9.813rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 82.5%; /* 129.525px */
+    margin-top: 273px;
+    margin-bottom: 114px;
+}
+
+@media (width <= 768px) {
+    .cover__title {
+        font-size: 7.5rem;
+        margin-top: 173px;
+        margin-bottom: 162px;
+    }
+}
+@media (width <= 375px) {
+    .cover__title {
+        font-size: 7.25rem;
+        margin-top: 65px;
+        margin-bottom: 55px;
+    }
+}

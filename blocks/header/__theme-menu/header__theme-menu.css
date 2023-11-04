@@ -1,0 +1,19 @@
+.header__theme-menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+@media (width <= 768px) {
+    .header__theme-menu {
+        flex-direction: column-reverse;
+        gap: 147px;
+        align-items: end;
+    }
+}
+@media (width <= 375px) {
+    .header__theme-menu {
+        flex-direction: column-reverse;
+        gap: 40px;
+        align-items: end;
+    }
+}

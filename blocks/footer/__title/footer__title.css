@@ -1,0 +1,21 @@
+.footer__title {
+    color: #DB00FF;
+    text-shadow: 2px 2px 0px #FF0070;
+    font-family: IBM Plex Mono, sans-serif;
+    font-size: 9.813rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 82.5%; /* 129.525px */
+    align-self: center;
+}
+
+@media (width <= 768px) {
+    .footer__title {
+        font-size: 7.5rem;
+    }
+}
+@media (width <= 375px) {
+    .footer__title {
+        font-size: 7.25rem;
+    }
+}

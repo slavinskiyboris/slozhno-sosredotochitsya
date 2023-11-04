@@ -1,0 +1,9 @@
+.card__text {
+    color: #000028;
+    font-family: IBM Plex Mono, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130%;
+    background-color: #FF0070;
+}

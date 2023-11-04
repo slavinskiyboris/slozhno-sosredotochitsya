@@ -1,0 +1,30 @@
+/*FONTS*/
+@import url(../fonts/fonts.css);
+/*STYLES*/
+@import url(../styles/dark.css);
+@import url(../styles/globals.css);
+@import url(../styles/light.css);
+@import url(../styles/style.css);
+@import url(../styles/variables.css);
+/*HEADER*/
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__theme-menu-list/header__theme-menu-list.css);
+@import url(../blocks/header/__rec-item/heade__rec-item.css);
+@import url(../blocks/header/__rec-text/header__rec-text.css);
+@import url(../blocks/header/__rec-radius/header__rec-radius.css);
+@import url(../blocks/header/__rec/header__rec.css);
+@import url(../blocks/header/__theme-menu/header__theme-menu.css);
+/*COVER*/
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__paragraph/cover__paragraph.css);
+@import url(../blocks/cover/__rec-item/cover__rec-item.css);
+/*GRID*/
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__text/card__text.css);
+@import url(../blocks/card/__items/card__items.css);
+/*FOOTER*/
+@import url(../blocks/footer/__title/footer__title.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__rec-bottom/footer__rec-bottom.css);
+@import url(../blocks/footer/__rec-top/footer__rec-top.css);
