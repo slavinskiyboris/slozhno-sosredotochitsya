@@ -1,13 +1,13 @@
 .card {
     padding-right: 20px;
     padding-left: 20px;
-    margin-top: 80px;
-    margin-bottom: 60px;
+    margin-block-start: 80px;
+    margin-block-end: 60px;
 }
 @media (width <= 375px) {
     .card {
-        margin-top: 50px;
-        margin-bottom: 40px;
+        margin-block-start: 50px;
+        margin-block-end: 40px;
         padding-right: 10px;
         padding-left: 10px;
     }

@@ -1,6 +1,7 @@
 .header__theme-menu {
     display: flex;
     justify-content: space-between;
+    /*align-items: end;*/
 }
 
 @media (width <= 768px) {

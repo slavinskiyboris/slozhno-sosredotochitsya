@@ -19,6 +19,14 @@
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__paragraph/cover__paragraph.css);
 @import url(../blocks/cover/__rec-item/cover__rec-item.css);
+/*FOCUS-TIPS*/
+@import url(../blocks/focus-tips/focus-tips.css);
+@import url(../blocks/focus-tips/__title/focus-tips__title.css);
+@import url(../blocks/focus-tips/__cards/focus-tips__cards.css);
+@import url(../blocks/focus-tips/__paragraph/focus-tips__paragraph.css);
+@import url(../blocks/focus-tips/__card/focus-tips__card.css);
+@import url(../blocks/focus-tips/__paragraph-text/focus-tips__paragraph-text.css);
+@import url(../blocks/focus-tips/__paragraph-title/focus-tips__paragraph-title.css);
 /*GRID*/
 @import url(../blocks/card/card.css);
 @import url(../blocks/card/__text/card__text.css);

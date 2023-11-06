@@ -1,0 +1,12 @@
+.focus-tips__paragraph {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 648px;
+}
+
+@media (width <= 768px) {
+    .focus-tips__paragraph {
+        max-width: 728px;
+    }
+}

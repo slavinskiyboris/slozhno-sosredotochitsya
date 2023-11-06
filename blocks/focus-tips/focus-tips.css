@@ -1,0 +1,13 @@
+.focus-tips {
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+@media (width <= 375px) {
+    .focus-tips {
+        padding: 10px;
+        gap: 50px;
+    }
+}

@@ -1,17 +1,16 @@
 .header {
-    display: flex;
-    justify-content: space-between;
-    /*flex-wrap: wrap;*/
     flex-direction: column;
     background-image: url("../../images/cover-image-dark.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     padding: 20px;
+    margin-block-end: 60px;
 }
 
 @media (width <= 375px) {
     .header {
         padding: 10px;
+        margin-block-end: 40px;
     }
 }

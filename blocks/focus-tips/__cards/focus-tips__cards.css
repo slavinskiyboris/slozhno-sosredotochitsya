@@ -1,0 +1,15 @@
+.focus-tips__cards {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+.flex {
+    flex-direction: column;
+}
+
+@media (width <= 375px) {
+    .focus-tips__cards {
+        flex-direction: column;
+    }
+}
