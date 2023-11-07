@@ -1,7 +1,7 @@
 .footer {
     display: flex;
     flex-direction: column;
-    padding: 20px;
+    padding: var(--padding);
     gap: 274px;
 }
 
@@ -13,5 +13,6 @@
 @media (width <= 375px) {
     .footer {
         gap: 250px;
+        padding: var(--padding-mobile);
     }
 }

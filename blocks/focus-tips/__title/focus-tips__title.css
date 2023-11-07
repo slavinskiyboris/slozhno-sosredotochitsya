@@ -1,5 +1,5 @@
 .focus-tips__title {
-    color: #FF0070;
+    color: var(--focus-title);
     font-family: IBM Plex Mono, sans-serif;
     font-size: 18px;
     font-style: normal;

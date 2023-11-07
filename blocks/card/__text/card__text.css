@@ -1,9 +1,9 @@
 .card__text {
-    color: #000028;
+    color: var(--title-text-color);
     font-family: IBM Plex Mono, sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
     line-height: 130%;
-    background-color: #FF0070;
+    background-color: var(--text-back);
 }

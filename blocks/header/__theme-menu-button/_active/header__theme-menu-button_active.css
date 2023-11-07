@@ -1,0 +1,9 @@
+.header__theme-menu-button_active {
+    pointer-events: none;
+
+    border: 1px solid var(--focus-title);
+}
+
+.header__theme-menu-button_active:hover {
+    border-color: var(--header-button-hover);
+}

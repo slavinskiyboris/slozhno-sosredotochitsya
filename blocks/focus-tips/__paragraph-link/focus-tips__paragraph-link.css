@@ -1,0 +1,17 @@
+.focus-tips__paragraph-link {
+    text-shadow: 2px 2px 0px var(--text-back);
+    text-decoration: none;
+}
+
+.focus-tips__paragraph-link:focus {
+    outline: none;
+}
+
+.focus-tips__paragraph-link:focus-visible {
+    border: 1px solid var(--text-color);
+    outline-offset: 1px;
+}
+
+.focus-tips__paragraph-link:hover {
+    border-bottom: 1px solid var(--text-color);
+}

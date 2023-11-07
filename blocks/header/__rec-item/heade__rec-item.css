@@ -1,6 +1,6 @@
 .header__rec-item {
-    border-top: 1px solid #FF0070;
-    border-right: 1px solid #FF0070;
+    border-top: 1px solid var(--rec-border);
+    border-right: 1px solid var(--rec-border);
     width: 25px;
     height: 25px;
 

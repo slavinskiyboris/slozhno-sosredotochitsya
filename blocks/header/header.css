@@ -1,16 +1,13 @@
 .header {
     flex-direction: column;
-    background-image: url("../../images/cover-image-dark.png");
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    padding: 20px;
+    padding: var(--padding);
     margin-block-end: 60px;
+
 }
 
 @media (width <= 375px) {
     .header {
-        padding: 10px;
+        padding: var(--padding-mobile);
         margin-block-end: 40px;
     }
 }

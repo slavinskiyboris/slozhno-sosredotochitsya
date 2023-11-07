@@ -1,6 +1,5 @@
 .focus-tips__card {
     display: flex;
-    /*flex-direction: column;*/
     gap: 20px;
 }
 

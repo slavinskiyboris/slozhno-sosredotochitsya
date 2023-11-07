@@ -1,11 +1,11 @@
 .cover__paragraph {
-    color: #000028;
     font-family: IBM Plex Mono, sans-serif;
     font-size: 1.125rem;
     font-style: normal;
     font-weight: 700;
-    line-height: 130%; /* 23.4px */
-    background-color: #FF0070;
+    line-height: 130%;
+    color: var(--title-text-color);
+    background-color: var(--text-back);
     align-self: end;
     max-width: 491px;
     min-height: 71px;

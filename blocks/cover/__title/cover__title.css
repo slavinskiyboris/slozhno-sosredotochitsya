@@ -1,28 +1,17 @@
 .cover__title {
-    color: #DB00FF;
+    color: var(--title-color);
     text-shadow: 4px 4px 0px #FF0070;
     font-family: IBM Plex Mono, sans-serif;
-    /*font-size: 9.813rem;*/
-    font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem) ;
+    font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
     font-style: normal;
     font-weight: 700;
-    line-height: 82.5%; /* 129.525px */
+    line-height: 82.5%;
     margin-top: 273px;
-    /*margin-top: 27.75%;*/
     margin-bottom: 114px;
 }
 
-/*@media (width < 1024px) {*/
-/*    .cover__title {*/
-/*        margin-top: 27.75%;*/
-/*        font-size: 8em;*/
-/*        margin-bottom: 10%;*/
-/*    }*/
-/*}*/
-
 @media (width <= 768px) {
     .cover__title {
-        /*font-size: 7.5rem;*/
         margin-top: 173px;
         margin-bottom: 162px;
     }

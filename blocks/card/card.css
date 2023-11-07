@@ -1,6 +1,6 @@
 .card {
-    padding-right: 20px;
-    padding-left: 20px;
+    padding-right: var(--padding);
+    padding-left: var(--padding);
     margin-block-start: 80px;
     margin-block-end: 60px;
 }
@@ -8,7 +8,7 @@
     .card {
         margin-block-start: 50px;
         margin-block-end: 40px;
-        padding-right: 10px;
-        padding-left: 10px;
+        padding-right: var(--padding-mobile);
+        padding-left: var(--padding-mobile);
     }
 }
