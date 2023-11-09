@@ -1,0 +1,5 @@
+@media (width > 768px) {
+    .legacyTwo {
+        max-width: 315px;
+    }
+}

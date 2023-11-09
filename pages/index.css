@@ -40,5 +40,8 @@
 /*FOOTER*/
 @import url(../blocks/footer/__title/footer__title.css);
 @import url(../blocks/footer/footer.css);
-
+/*DECORATED*/
 @import url(../blocks/decorated-zone/decorated-zone.css);
+/*LEGACY*/
+@import url(../blocks/legacy/legacyOne.css);
+@import url(../blocks/legacy/legacyTwo.css);

@@ -8,18 +8,16 @@
     background-color: var(--text-back);
     align-self: end;
     max-width: 491px;
-    /*margin-block-end: calc(89px + 26px);*/
 }
 
 @media (width <= 768px) {
     .cover__paragraph {
-        /*margin-block-end: calc(138px + 26px);*/
         max-width: 364px;
     }
 }
+
 @media (width <= 375px) {
     .cover__paragraph {
-        /*margin-block-end: 31px;*/
         max-width: 355px;
     }
 }

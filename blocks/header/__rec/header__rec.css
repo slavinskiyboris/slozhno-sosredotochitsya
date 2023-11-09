@@ -9,7 +9,6 @@
     position: absolute;
     top: 20px;
     right: 50px;
-
 }
 
 .header__rec::after {
@@ -20,7 +19,6 @@
     border-radius: var(--rec-radius);
     background-color: var(--rec-radius-back);
     box-shadow: var(--rec-radius-shadow);
-
     top: 8px;
     left: 45px;
 }

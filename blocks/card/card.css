@@ -4,6 +4,7 @@
     margin-block-start: 80px;
     margin-block-end: 60px;
 }
+
 @media (width <= 375px) {
     .card {
         margin-block-start: 40px;

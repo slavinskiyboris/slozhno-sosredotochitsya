@@ -1,20 +1,12 @@
 .footer {
     padding: var(--padding);
     display: flex;
-    /*gap: 274px;*/
     position: relative;
     justify-content: center;
-    /*height: 100vh;*/
 }
 
-@media (width <= 768px) {
-    .footer {
-        /*gap: 417px;*/
-    }
-}
 @media (width <= 375px) {
     .footer {
-        /*gap: 250px;*/
         padding: var(--padding-mobile);
     }
 }

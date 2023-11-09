@@ -1,18 +1,13 @@
 .header {
-    /*padding: var(--padding);*/
     margin-block-end: 60px;
     position: relative;
-
     display: grid;
-
-
     grid-template-rows: 1fr min-content 1fr;
     justify-items: end;
     align-items: center;
-
-    padding-top: 20px;
-    padding-right: 20px;
-    padding-bottom: 20px;
+    padding-top: var(--padding);
+    padding-right: var(--padding);
+    padding-bottom: var(--padding);
 }
 
 @media (width <= 375px) {

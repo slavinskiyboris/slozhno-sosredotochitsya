@@ -5,6 +5,7 @@
     padding-right: var(--padding);
     padding-left: var(--padding);
 }
+
 @media (width <= 375px) {
     .focus-tips {
         padding: var(--padding-mobile);

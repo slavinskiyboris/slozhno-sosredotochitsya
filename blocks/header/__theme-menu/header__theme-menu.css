@@ -5,13 +5,3 @@
         padding-left: 20px;
     }
 }
-
-@media (width <= 768px) {
-    .header__theme-menu {
-    }
-}
-@media (width <= 375px) {
-    .header__theme-menu {
-
-    }
-}
