@@ -1,9 +1,0 @@
-.header__rec-radius {
-    border: var(--rec-radius-border);
-    width: 9px;
-    height: 9px;
-    margin: 8px 9px 8px 7.04px;
-    border-radius: var(--rec-radius);
-    background-color: var(--rec-radius-back);
-    box-shadow: var(--rec-radius-shadow);
-}

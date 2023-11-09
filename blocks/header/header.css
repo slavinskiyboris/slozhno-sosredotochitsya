@@ -1,13 +1,23 @@
 .header {
-    flex-direction: column;
-    padding: var(--padding);
+    /*padding: var(--padding);*/
     margin-block-end: 60px;
+    position: relative;
 
+    display: grid;
+
+
+    grid-template-rows: 1fr min-content 1fr;
+    justify-items: end;
+    align-items: center;
+
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
 }
 
 @media (width <= 375px) {
     .header {
         padding: var(--padding-mobile);
-        margin-block-end: 40px;
+        margin-block-end: 30px;
     }
 }

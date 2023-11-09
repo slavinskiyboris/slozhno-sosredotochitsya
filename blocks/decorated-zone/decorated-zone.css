@@ -1,0 +1,39 @@
+.decorated-zone {
+    height: max(100vh, 668px);
+}
+
+.decorated-zone::after {
+    border-bottom: 1px solid var(--rec-border);
+    border-left: 1px solid var(--rec-border);
+
+    left: 20px;
+    bottom: 20px;
+
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    content: "";
+}
+
+.decorated-zone::before {
+    border-top: 1px solid var(--rec-border);
+    border-right: 1px solid var(--rec-border);
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    content: "";
+
+    top: 20px;
+    right: 20px;
+}
+
+@media (width <= 375px) {
+    .decorated-zone::after {
+        left: 10px;
+        bottom: 10px;
+    }
+    .decorated-zone::before {
+        top: 10px;
+        right: 10px;
+    }
+}

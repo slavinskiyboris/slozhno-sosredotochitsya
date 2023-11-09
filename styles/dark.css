@@ -20,7 +20,7 @@
     --rec-radius-border: 1px solid #FF0070;
     --rec-radius: 50%;
     --rec-radius-back: #FF0070;
-    --rec-radius-shadow: 0px 0px 4px #FF0070;
+    --rec-radius-shadow: 0 0 4px 2px #FF0070;
     --rec-text: #FF0070;
 
     --header-button-hover: rgba(255, 0, 112, 0.40);
@@ -37,9 +37,9 @@
         --rec-border: #FF0070;
 
         --rec-radius-border: 1px solid #FF0070;
-        --rec-radius: 50%;
+        --rec-radius: 100%;
         --rec-radius-back: #FF0070;
-        --rec-radius-shadow: 0px 0px 4px #FF0070;
+        --rec-radius-shadow: 0 0 4px 2px #FF0070;
         --rec-text: #FF0070;
 
         --header-button-hover: rgba(255, 0, 112, 0.40);

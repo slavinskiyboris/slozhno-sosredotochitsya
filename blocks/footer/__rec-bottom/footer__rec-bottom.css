@@ -1,7 +1,0 @@
-.footer__rec-bottom {
-    width: 25px;
-    height: 25px;
-    border-bottom: 1px solid var(--rec-border);
-    border-left: 1px solid var(--rec-border);
-    align-self: start;
-}

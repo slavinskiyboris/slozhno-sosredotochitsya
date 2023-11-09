@@ -1,3 +1,33 @@
 .header__rec {
-    display: flex;
+    color: var(--rec-text);
+    text-align: center;
+    font-family: IBM Plex Mono, monospace;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    position: absolute;
+    top: 20px;
+    right: 50px;
+
+}
+
+.header__rec::after {
+    content: '';
+    position: absolute;
+    inline-size: 9px;
+    block-size: 9px;
+    border-radius: var(--rec-radius);
+    background-color: var(--rec-radius-back);
+    box-shadow: var(--rec-radius-shadow);
+
+    top: 8px;
+    left: 45px;
+}
+
+@media (width <= 375px) {
+    .header__rec {
+        top: 10px;
+        right: 40px;
+    }
 }

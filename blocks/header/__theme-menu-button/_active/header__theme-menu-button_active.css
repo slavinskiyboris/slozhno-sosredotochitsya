@@ -2,6 +2,9 @@
     pointer-events: none;
 
     border: 1px solid var(--focus-title);
+    width: 70px;
+    height: 26px;
+
 }
 
 .header__theme-menu-button_active:hover {

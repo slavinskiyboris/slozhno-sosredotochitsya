@@ -1,0 +1,4 @@
+.card__item_sunset {
+    grid-column-start: 1;
+    grid-column-end: 3;
+}

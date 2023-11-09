@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7f731f5-872f-459b-9174-746d0ba963a8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/card/__item/_books/card__item_books.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/card/__item/_iceCream/card__item_iceCream.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/card/__item/_street/card__item_street.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/card/__item/_sunset/card__item_sunset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/card/__item/_tape/card__item_tape.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/card/__item/card__item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/decorated-zone/decorated-zone.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/card/__items/card__items.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/card/__items/card__items.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/card/__text/card__text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/card/__text/card__text.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/card/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/card/card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__paragraph/cover__paragraph.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__paragraph/cover__paragraph.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__rec-item/cover__rec-item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/flex/flex.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/flex/flex.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/focus-tips/__paragraph-text/focus-tips__paragraph-text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/focus-tips/__paragraph-text/focus-tips__paragraph-text.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/focus-tips/__paragraph-title/focus-tips__paragraph-title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/focus-tips/__paragraph-title/focus-tips__paragraph-title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/focus-tips/__paragraph/focus-tips__paragraph.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/focus-tips/__paragraph/focus-tips__paragraph.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/focus-tips/__title/focus-tips__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/focus-tips/__title/focus-tips__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__rec-bottom/footer__rec-bottom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__rec-top/footer__rec-top.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__title/footer__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__title/footer__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__rec-item/heade__rec-item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__rec-radius/header__rec-radius.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__rec-text/header__rec-text.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__rec/header__rec.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__rec/header__rec.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__theme-menu-button/_active/header__theme-menu-button_active.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__theme-menu-button/_active/header__theme-menu-button_active.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__theme-menu-button/header__theme-menu-button.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__theme-menu-button/header__theme-menu-button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__theme-menu-list/header__theme-menu-list.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__theme-menu-list/header__theme-menu-list.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__theme-menu/header__theme-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__theme-menu/header__theme-menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/light.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/light.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2XwdYfcJfRIIFMEl2kVDJXbeHmV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/boris/Desktop/dev/slozhno-sosredotochitsya",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7f731f5-872f-459b-9174-746d0ba963a8" name="Changes" comment="" />
+      <created>1699544125755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699544125755</updated>
+      <workItem from="1699544128601" duration="8000" />
+      <workItem from="1699544160244" duration="10731000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

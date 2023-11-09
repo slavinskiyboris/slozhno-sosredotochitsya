@@ -1,6 +1,6 @@
 .focus-tips__title {
     color: var(--focus-title);
-    font-family: IBM Plex Mono, sans-serif;
+    font-family: IBM Plex Mono, monospace;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
@@ -11,5 +11,11 @@
 @media (width <= 768px) {
     .focus-tips__title {
         max-width: 236px;
+    }
+}
+
+@media (width <= 375px) {
+    .focus-tips__title {
+        max-width: 355px;
     }
 }

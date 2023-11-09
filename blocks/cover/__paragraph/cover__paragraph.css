@@ -1,5 +1,5 @@
 .cover__paragraph {
-    font-family: IBM Plex Mono, sans-serif;
+    font-family: IBM Plex Mono, monospace;
     font-size: 1.125rem;
     font-style: normal;
     font-weight: 700;
@@ -8,19 +8,18 @@
     background-color: var(--text-back);
     align-self: end;
     max-width: 491px;
-    min-height: 71px;
-    margin-bottom: 89px;
+    /*margin-block-end: calc(89px + 26px);*/
 }
 
 @media (width <= 768px) {
     .cover__paragraph {
-        margin-bottom: 138px;
+        /*margin-block-end: calc(138px + 26px);*/
         max-width: 364px;
     }
 }
 @media (width <= 375px) {
     .cover__paragraph {
-        margin-bottom: 31px;
+        /*margin-block-end: 31px;*/
         max-width: 355px;
     }
 }

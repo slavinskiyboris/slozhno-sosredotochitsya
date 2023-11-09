@@ -6,7 +6,7 @@
 }
 @media (width <= 375px) {
     .card {
-        margin-block-start: 50px;
+        margin-block-start: 40px;
         margin-block-end: 40px;
         padding-right: var(--padding-mobile);
         padding-left: var(--padding-mobile);

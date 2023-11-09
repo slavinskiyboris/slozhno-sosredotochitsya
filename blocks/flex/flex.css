@@ -1,3 +1,19 @@
 .flex {
     flex-direction: column;
 }
+
+@media (width > 768px) {
+    .legacyOne {
+        max-width: 648px;
+    }
+
+    .legacyTwo {
+        max-width: 315px;
+    }
+}
+
+@media (375px < width <= 768px) {
+    .legacyOne {
+        max-width: 472px;
+    }
+}
