@@ -24,6 +24,5 @@
 }
 
 .header__theme-menu-button:hover {
-    opacity: 0.5;
     outline: 1px solid var(--header-button-hover);
 }

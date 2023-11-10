@@ -4,7 +4,7 @@
     justify-content: space-between;
 }
 
-@media (width <= 375px) {
+@media (width <= 425px) {
     .focus-tips__cards {
         flex-direction: column;
     }

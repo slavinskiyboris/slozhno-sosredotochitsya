@@ -23,7 +23,7 @@
     left: 45px;
 }
 
-@media (width <= 375px) {
+@media (width <= 425px) {
     .header__rec {
         top: 10px;
         right: 40px;

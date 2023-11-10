@@ -10,7 +10,7 @@
     padding-bottom: var(--padding);
 }
 
-@media (width <= 375px) {
+@media (width <= 425px) {
     .header {
         padding: var(--padding-mobile);
         margin-block-end: 30px;

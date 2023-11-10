@@ -9,7 +9,7 @@
     align-self: center;
 }
 
-@media (width <= 375px) {
+@media (width <= 425px) {
     .footer__title {
         font-size: var(--font-size-title-mob);
     }

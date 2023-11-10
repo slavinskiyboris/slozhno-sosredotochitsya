@@ -16,7 +16,7 @@
     }
 }
 
-@media (width <= 375px) {
+@media (width <= 425px) {
     .cover__paragraph {
         max-width: 355px;
     }

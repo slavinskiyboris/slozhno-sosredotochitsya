@@ -5,7 +5,7 @@
     margin-block-end: 60px;
 }
 
-@media (width <= 375px) {
+@media (width <= 425px) {
     .card {
         margin-block-start: 40px;
         margin-block-end: 40px;

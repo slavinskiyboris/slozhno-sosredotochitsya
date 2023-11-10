@@ -14,7 +14,7 @@
     }
 }
 
-@media (width <= 375px) {
+@media (width <= 425px) {
     .focus-tips__title {
         max-width: 355px;
     }

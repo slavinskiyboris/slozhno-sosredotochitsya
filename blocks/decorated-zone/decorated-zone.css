@@ -24,7 +24,7 @@
     right: 20px;
 }
 
-@media (width <= 375px) {
+@media (width <= 425px) {
     .decorated-zone::after {
         left: 10px;
         bottom: 10px;

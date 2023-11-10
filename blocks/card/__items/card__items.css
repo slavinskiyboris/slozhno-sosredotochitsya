@@ -5,7 +5,7 @@
     grid-template-columns: repeat(3, 1fr);
 }
 
-@media (width <= 375px) {
+@media (width <= 425px) {
     .card__items {
         margin-top: 10px;
         display: flex;

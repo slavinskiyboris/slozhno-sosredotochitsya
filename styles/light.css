@@ -32,6 +32,10 @@
 
         --header-button-hover: rgba(50, 49, 45, 0.40);
     }
+
+    .theme_auto .header__rec {
+        display: none;
+    }
 }
 
 .theme_light .header__rec {

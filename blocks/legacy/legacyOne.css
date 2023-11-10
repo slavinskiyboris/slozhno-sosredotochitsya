@@ -4,7 +4,7 @@
     }
 }
 
-@media (375px < width <= 768px) {
+@media (425px < width <= 768px) {
     .legacyOne {
         max-width: 472px;
     }
