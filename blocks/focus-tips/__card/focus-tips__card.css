@@ -10,7 +10,7 @@
     }
 }
 
-@media (width <= 768px) {
+@media (width < 1024px) {
     .focus-tips__card {
         flex-direction: column;
     }

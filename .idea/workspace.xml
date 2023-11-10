@@ -6,26 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f7f731f5-872f-459b-9174-746d0ba963a8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/card/__items/card__items.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/card/__items/card__items.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/card/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/card/card.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/__paragraph/cover__paragraph.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__paragraph/cover__paragraph.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/decorated-zone/decorated-zone.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/decorated-zone/decorated-zone.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/focus-tips/__card/focus-tips__card.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/focus-tips/__card/focus-tips__card.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/focus-tips/__cards/focus-tips__cards.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/focus-tips/__cards/focus-tips__cards.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/focus-tips/__title/focus-tips__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/focus-tips/__title/focus-tips__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/focus-tips/focus-tips.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/focus-tips/focus-tips.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/footer/__title/footer__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__title/footer__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__rec/header__rec.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__rec/header__rec.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__theme-menu-button/_active/header__theme-menu-button_active.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__theme-menu-button/_active/header__theme-menu-button_active.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__theme-menu-button/header__theme-menu-button.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__theme-menu-button/header__theme-menu-button.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/legacy/legacyOne.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/legacy/legacyOne.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/legacy/legacyTwo.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/legacy/legacyTwo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/light.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/light.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +62,7 @@
       <workItem from="1699544128601" duration="8000" />
       <workItem from="1699544160244" duration="10893000" />
       <workItem from="1699562236689" duration="1119000" />
-      <workItem from="1699625230558" duration="3757000" />
+      <workItem from="1699625230558" duration="4630000" />
     </task>
     <servers />
   </component>
